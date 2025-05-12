@@ -1,3 +1,11 @@
 /dataset_coin_classification/
 /=3.8
 /codes/label_encode.pkl
+/models/best_model.pth
+/models/efficientnetb0.pth
+/models/ResNet_18.pth
+/models/resnet18_exp1.pth
+/models/resnet18_exp2.pth
+/models/resnet18_exp3.pth
+/models/ResNet18_fine_tune.pth
+/models/resnet18_improved_best.pth
