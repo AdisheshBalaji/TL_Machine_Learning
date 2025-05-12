@@ -1,0 +1,1222 @@
+Id,Class,label
+33,"1 Cent,Australian dollar,australia",6
+34,"1 Cent,Australian dollar,australia",6
+35,"1 Cent,Australian dollar,australia",6
+36,"1 Cent,Australian dollar,australia",6
+69,"2 Cents,Australian dollar,australia",117
+70,"1 Cent,Australian dollar,australia",6
+71,"2 Cents,Australian dollar,australia",117
+72,"1 Cent,Australian dollar,australia",6
+103,"5 Cents,Australian dollar,australia",222
+104,"5 Cents,Australian dollar,australia",222
+105,"5 Cents,Australian dollar,australia",222
+106,"5 Cents,Australian dollar,australia",222
+137,"10 Cents,Australian dollar,australia",75
+138,"10 Cents,Australian dollar,australia",75
+139,"10 Cents,Australian dollar,australia",75
+140,"10 Cents,Australian dollar,australia",75
+168,"20 Cents,Australian dollar,australia",174
+169,"20 Cents,Australian dollar,australia",174
+170,"20 Cents,Australian dollar,australia",174
+199,"50 Cents,Australian dollar,australia",261
+200,"50 Cents,Australian dollar,australia",261
+201,"50 Cents,Australian dollar,australia",261
+202,"50 Cents,Australian dollar,australia",261
+235,"1 Dollar,Australian dollar,australia",13
+236,"1 Dollar,Australian dollar,australia",13
+237,"1 Dollar,Australian dollar,australia",13
+238,"1 Dollar,Australian dollar,australia",13
+271,"2 Dollars,Australian dollar,australia",134
+272,"1 Dollar,New Zealand dollar,new_zealand",16
+273,"2 Dollars,Australian dollar,australia",134
+274,"2 Dollars,Australian dollar,australia",134
+307,"1 Centavo,Brazilian Real,brazil",11
+308,"1 Centavo,Brazilian Real,brazil",11
+309,"1 Centavo,Brazilian Real,brazil",11
+310,"10 Centavos,Brazilian Real,brazil",73
+343,"5 Centavos,Brazilian Real,brazil",220
+344,"20 Cents,South African Rand,south_africa",194
+345,"5 Centavos,Brazilian Real,brazil",220
+346,"5 Centavos,Brazilian Real,brazil",220
+379,"10 Centavos,Brazilian Real,brazil",73
+380,"10 Centavos,Brazilian Real,brazil",73
+381,"10 Centavos,Brazilian Real,brazil",73
+382,"10 Centavos,Brazilian Real,brazil",73
+415,"25 Centavos,Brazilian Real,brazil",211
+416,"25 Centavos,Brazilian Real,brazil",211
+417,"25 Centavos,Brazilian Real,brazil",211
+418,"25 Centavos,Brazilian Real,brazil",211
+451,"1 Real,Brazilian Real,brazil",59
+452,"1 Real,Brazilian Real,brazil",59
+453,"1 Real,Brazilian Real,brazil",59
+454,"1 Real,Brazilian Real,brazil",59
+487,"1 Penny,British Pound,united_kingdom",52
+488,"1 Penny,British Pound,united_kingdom",52
+489,"1 Penny,British Pound,united_kingdom",52
+490,"1 Penny,British Pound,united_kingdom",52
+523,"2 Pence,British Pound,united_kingdom",164
+524,"2 Pence,British Pound,united_kingdom",164
+525,"2 Pence,British Pound,united_kingdom",164
+526,"2 Pence,British Pound,united_kingdom",164
+558,"5 Pence,British Pound,united_kingdom",243
+559,"10 Pence,British Pound,united_kingdom",94
+560,"5 Pence,British Pound,united_kingdom",243
+561,"5 Pence,British Pound,united_kingdom",243
+594,"10 Pence,British Pound,united_kingdom",94
+595,"10 Pence,British Pound,united_kingdom",94
+596,"10 Pence,British Pound,united_kingdom",94
+597,"1 Dollar,Hong Kong dollar,hong_kong",15
+652,"20 Pence,British Pound,united_kingdom",203
+653,"20 Pence,British Pound,united_kingdom",203
+654,"20 Pence,British Pound,united_kingdom",203
+655,"20 Pence,British Pound,united_kingdom",203
+656,"20 Pence,British Pound,united_kingdom",203
+657,"20 Pence,British Pound,united_kingdom",203
+712,"50 Pence,British Pound,united_kingdom",296
+713,"50 Pence,British Pound,united_kingdom",296
+714,"50 Pence,British Pound,united_kingdom",296
+715,"50 Pence,British Pound,united_kingdom",296
+716,"50 Pence,British Pound,united_kingdom",296
+717,"50 Pence,British Pound,united_kingdom",296
+772,"1 Pound,British Pound,united_kingdom",56
+773,"1 Pound,British Pound,united_kingdom",56
+774,"1 Pound,British Pound,united_kingdom",56
+775,"1 Pound,British Pound,united_kingdom",56
+776,"5 Zlotych,Polish Zloty,poland",258
+777,"1 Pound,British Pound,united_kingdom",56
+832,"2 Pounds,British Pound,united_kingdom",166
+833,"2 Pounds,British Pound,united_kingdom",166
+834,"2 Pounds,British Pound,united_kingdom",166
+835,"2 Pounds,British Pound,united_kingdom",166
+836,"2 Pounds,British Pound,united_kingdom",166
+837,"1 Real,Brazilian Real,brazil",59
+892,"1 Cent,Canadian Dollar,canada",7
+893,"1 Cent,Canadian Dollar,canada",7
+894,"1 Cent,Canadian Dollar,canada",7
+895,"1 Cent,Canadian Dollar,canada",7
+896,"1 Cent,Canadian Dollar,canada",7
+897,"1 Cent,Canadian Dollar,canada",7
+952,"5 Cents,Canadian Dollar,canada",223
+953,"5 Cents,Canadian Dollar,canada",223
+954,"5 Cents,Canadian Dollar,canada",223
+955,"5 Cents,Canadian Dollar,canada",223
+956,"5 Cents,Canadian Dollar,canada",223
+957,"5 Cents,Canadian Dollar,canada",223
+1012,"50 Cents,Canadian Dollar,canada",262
+1013,"10 Cents,Canadian Dollar,canada",76
+1014,"10 Cents,Canadian Dollar,canada",76
+1015,"10 Cents,Canadian Dollar,canada",76
+1016,"10 Cents,Canadian Dollar,canada",76
+1017,"10 Cents,Canadian Dollar,canada",76
+1072,"25 Cents,Canadian Dollar,canada",212
+1073,"25 Cents,Canadian Dollar,canada",212
+1074,"25 Cents,Canadian Dollar,canada",212
+1075,"5 Cents,Canadian Dollar,canada",223
+1076,"5 Cents,Canadian Dollar,canada",223
+1077,"25 Cents,Canadian Dollar,canada",212
+1132,"50 Cents,Canadian Dollar,canada",262
+1133,"50 Cents,Canadian Dollar,canada",262
+1134,"50 Cents,Canadian Dollar,canada",262
+1135,"50 Cents,Canadian Dollar,canada",262
+1136,"50 Cents,Canadian Dollar,canada",262
+1137,"50 Cents,Canadian Dollar,canada",262
+1192,"1 Dollar,Canadian Dollar,canada",14
+1193,"1 Dollar,Canadian Dollar,canada",14
+1194,"1 Dollar,Canadian Dollar,canada",14
+1195,"1 Dollar,Canadian Dollar,canada",14
+1196,"1 Dollar,Canadian Dollar,canada",14
+1197,"1 Dollar,Canadian Dollar,canada",14
+1252,"2 Dollars,Canadian Dollar,canada",135
+1253,"2 Dollars,Canadian Dollar,canada",135
+1254,"2 Dollars,Canadian Dollar,canada",135
+1255,"2 Dollars,Canadian Dollar,canada",135
+1256,"2 Dollars,Canadian Dollar,canada",135
+1257,"2 Dollars,Canadian Dollar,canada",135
+1312,"1 Peso,Chilean Peso,chile",53
+1313,"100 Pesos,Chilean Peso,chile",111
+1314,"1 Peso,Chilean Peso,chile",53
+1315,"1 Peso,Chilean Peso,chile",53
+1316,"1 Peso,Chilean Peso,chile",53
+1317,"1 Peso,Chilean Peso,chile",53
+1372,"10 Pesos,Chilean Peso,chile",95
+1373,"10 Pesos,Chilean Peso,chile",95
+1374,"5 Pesos,Chilean Peso,chile",244
+1375,"100 Pesos,Chilean Peso,chile",111
+1376,"5 Pesos,Chilean Peso,chile",244
+1377,"5 Pesos,Chilean Peso,chile",244
+1432,"10 Pesos,Chilean Peso,chile",95
+1433,"10 Pesos,Chilean Peso,chile",95
+1434,"1 Peso,Chilean Peso,chile",53
+1435,"10 Pesos,Chilean Peso,chile",95
+1436,"10 Pesos,Chilean Peso,chile",95
+1437,"10 Pesos,Chilean Peso,chile",95
+1492,"50 Pesos,Chilean Peso,chile",297
+1493,"100 Pesos,Chilean Peso,chile",111
+1494,"50 Pesos,Chilean Peso,chile",297
+1495,"50 Pesos,Chilean Peso,chile",297
+1496,"50 Pesos,Chilean Peso,chile",297
+1497,"50 Pesos,Chilean Peso,chile",297
+1552,"100 Pesos,Chilean Peso,chile",111
+1553,"100 Pesos,Chilean Peso,chile",111
+1554,"100 Pesos,Chilean Peso,chile",111
+1555,"100 Pesos,Chilean Peso,chile",111
+1556,"100 Pesos,Chilean Peso,chile",111
+1557,"100 Pesos,Chilean Peso,chile",111
+1611,"500 Pesos,Chilean Peso,chile",306
+1612,"500 Pesos,Chilean Peso,chile",306
+1613,"500 Pesos,Chilean Peso,chile",306
+1614,"5 Pesos,Mexican peso,mexico",245
+1615,"500 Pesos,Chilean Peso,chile",306
+1616,"500 Pesos,Chilean Peso,chile",306
+1671,"1 Jiao,Chinese Yuan Renminbi,china",42
+1672,"1 Jiao,Chinese Yuan Renminbi,china",42
+1673,"1 Jiao,Chinese Yuan Renminbi,china",42
+1674,"1 Jiao,Chinese Yuan Renminbi,china",42
+1675,"1 Jiao,Chinese Yuan Renminbi,china",42
+1676,"1 Jiao,Chinese Yuan Renminbi,china",42
+1731,"2 Pesos,Mexican peso,mexico",165
+1732,"5 Jiao,Chinese Yuan Renminbi,china",234
+1733,"5 Jiao,Chinese Yuan Renminbi,china",234
+1734,"5 Sen,Malaysian Ringgit,malaysia",253
+1735,"5 Jiao,Chinese Yuan Renminbi,china",234
+1736,"5 Jiao,Chinese Yuan Renminbi,china",234
+1791,"1 Yuan,Chinese Yuan Renminbi,china",68
+1792,"1 Yuan,Chinese Yuan Renminbi,china",68
+1793,"1 Yuan,Chinese Yuan Renminbi,china",68
+1794,"1 Jiao,Chinese Yuan Renminbi,china",42
+1795,"1 Yuan,Chinese Yuan Renminbi,china",68
+1796,"1 Yuan,Chinese Yuan Renminbi,china",68
+1851,"10 Hellers,Czech Koruna,czech_republic",85
+1852,"10 Hellers,Czech Koruna,czech_republic",85
+1853,"10 Hellers,Czech Koruna,czech_republic",85
+1854,"10 Hellers,Czech Koruna,czech_republic",85
+1855,"10 Hellers,Czech Koruna,czech_republic",85
+1856,"10 Hellers,Czech Koruna,czech_republic",85
+1911,"20 Hellers,Czech Koruna,czech_republic",199
+1912,"20 Hellers,Czech Koruna,czech_republic",199
+1913,"20 Hellers,Czech Koruna,czech_republic",199
+1914,"20 Hellers,Czech Koruna,czech_republic",199
+1915,"20 Hellers,Czech Koruna,czech_republic",199
+1916,"20 Hellers,Czech Koruna,czech_republic",199
+1971,"50 Hellers,Czech Koruna,czech_republic",288
+1972,"50 Hellers,Czech Koruna,czech_republic",288
+1973,"50 Hellers,Czech Koruna,czech_republic",288
+1974,"50 Hellers,Czech Koruna,czech_republic",288
+1975,"50 Hellers,Czech Koruna,czech_republic",288
+1976,"50 Hellers,Czech Koruna,czech_republic",288
+2031,"1 Koruna,Czech Koruna,czech_republic",44
+2032,"1 Koruna,Czech Koruna,czech_republic",44
+2033,"1 Koruna,Czech Koruna,czech_republic",44
+2034,"1 Koruna,Czech Koruna,czech_republic",44
+2035,"1 Koruna,Czech Koruna,czech_republic",44
+2036,"1 Koruna,Czech Koruna,czech_republic",44
+2091,"2 Koruny,Czech Koruna,czech_republic",160
+2092,"2 Koruny,Czech Koruna,czech_republic",160
+2093,"2 Koruny,Czech Koruna,czech_republic",160
+2094,"1 Koruna,Czech Koruna,czech_republic",44
+2095,"2 Koruny,Czech Koruna,czech_republic",160
+2096,"2 Koruny,Czech Koruna,czech_republic",160
+2151,"5 Korun,Czech Koruna,czech_republic",236
+2152,"5 Korun,Czech Koruna,czech_republic",236
+2153,"5 Korun,Czech Koruna,czech_republic",236
+2154,"5 Korun,Czech Koruna,czech_republic",236
+2155,"5 Korun,Czech Koruna,czech_republic",236
+2156,"5 Korun,Czech Koruna,czech_republic",236
+2211,"10 Korun,Czech Koruna,czech_republic",87
+2212,"10 Korun,Czech Koruna,czech_republic",87
+2213,"10 Korun,Czech Koruna,czech_republic",87
+2214,"10 Korun,Czech Koruna,czech_republic",87
+2215,"10 Korun,Czech Koruna,czech_republic",87
+2216,"10 Korun,Czech Koruna,czech_republic",87
+2249,"20 Korun,Czech Koruna,czech_republic",200
+2250,"20 Korun,Czech Koruna,czech_republic",200
+2251,"20 Korun,Czech Koruna,czech_republic",200
+2252,"20 Korun,Czech Koruna,czech_republic",200
+2285,"50 Korun,Czech Koruna,czech_republic",290
+2286,"50 Korun,Czech Koruna,czech_republic",290
+2287,"50 Korun,Czech Koruna,czech_republic",290
+2288,"50 Korun,Czech Koruna,czech_republic",290
+2320,"25 Ore,Danish Krone,denmark",214
+2321,"50 Ore,Danish Krone,denmark",292
+2322,"50 Ore,Danish Krone,denmark",292
+2323,"25 Ore,Danish Krone,denmark",214
+2356,"50 Ore,Danish Krone,denmark",292
+2357,"50 Ore,Danish Krone,denmark",292
+2358,"50 Ore,Danish Krone,denmark",292
+2359,"50 Ore,Danish Krone,denmark",292
+2392,"1 Krone,Danish Krone,denmark",46
+2393,"1 Krone,Danish Krone,denmark",46
+2394,"2 Kroner,Danish Krone,denmark",161
+2395,"1 Krone,Danish Krone,denmark",46
+2428,"2 Kroner,Danish Krone,denmark",161
+2429,"2 Kroner,Danish Krone,denmark",161
+2430,"1 Krone,Danish Krone,denmark",46
+2431,"2 Kroner,Danish Krone,denmark",161
+2464,"5 Kroner,Danish Krone,denmark",237
+2465,"2 Kroner,Danish Krone,denmark",161
+2466,"50 Sen,Malaysian Ringgit,malaysia",300
+2467,"2 Kroner,Danish Krone,denmark",161
+2500,"10 Kroner,Danish Krone,denmark",88
+2501,"10 Kroner,Danish Krone,denmark",88
+2502,"10 Kroner,Danish Krone,denmark",88
+2503,"10 Kroner,Danish Krone,denmark",88
+2536,"20 Kroner,Danish Krone,denmark",201
+2537,"20 Kroner,Danish Krone,denmark",201
+2538,"20 Kroner,Danish Krone,denmark",201
+2539,"20 Kroner,Danish Krone,denmark",201
+2572,"1 euro Cent,Euro,spain",70
+2573,"1 euro Cent,Euro,spain",70
+2574,"5 euro Cent,Euro,spain",259
+2575,"1 euro Cent,Euro,spain",70
+2608,"2 euro Cent,Euro,spain",172
+2609,"1 euro Cent,Euro,spain",70
+2610,"2 euro Cent,Euro,spain",172
+2611,"5 euro Cent,Euro,spain",259
+2644,"5 euro Cent,Euro,spain",259
+2645,"5 euro Cent,Euro,spain",259
+2646,"5 euro Cent,Euro,spain",259
+2647,"5 euro Cent,Euro,spain",259
+2680,"10 euro Cent,Euro,spain",108
+2681,"10 euro Cent,Euro,spain",108
+2682,"50 euro Cent,Euro,spain",304
+2683,"10 euro Cent,Euro,spain",108
+2716,"20 euro Cent,Euro,spain",207
+2717,"20 euro Cent,Euro,spain",207
+2718,"20 euro Cent,Euro,spain",207
+2719,"20 euro Cent,Euro,spain",207
+2752,"50 Cents,Euro,spain",279
+2753,"50 euro Cent,Euro,spain",304
+2754,"50 euro Cent,Euro,spain",304
+2755,"50 euro Cent,Euro,spain",304
+2810,"1 euro Cent,Euro,spain",70
+2811,"5 euro Cent,Euro,spain",259
+2812,"1 euro Cent,Euro,spain",70
+2813,"1 euro Cent,Euro,spain",70
+2814,"1 Euro,Euro,spain",38
+2815,"1 Euro,Euro,spain",38
+2816,"1 Euro,Euro,spain",38
+2872,"1 euro Cent,Euro,spain",70
+2873,"1 euro Cent,Euro,spain",70
+2874,"2 Euro,Euro,luxembourg",150
+2875,"2 Euro,Euro,spain",156
+2876,"1 Euro,Euro,spain",38
+2877,"5 euro Cent,Euro,spain",259
+2878,"2 Euro,Euro,spain",156
+2911,"1 Krona,Swedish Krona,sweden",45
+2912,"10 Cents,Hong Kong dollar,hong_kong",77
+2913,"50 Cents,Hong Kong dollar,hong_kong",280
+2914,"10 Cents,Hong Kong dollar,hong_kong",77
+2947,"50 Cents,Hong Kong dollar,hong_kong",280
+2948,"50 Cents,Hong Kong dollar,hong_kong",280
+2949,"50 Cents,Hong Kong dollar,hong_kong",280
+2950,"50 Cents,Hong Kong dollar,hong_kong",280
+2983,"1 Dollar,Hong Kong dollar,hong_kong",15
+2984,"1 Dollar,Hong Kong dollar,hong_kong",15
+2985,"1 Dollar,Hong Kong dollar,hong_kong",15
+2986,"1 Dollar,Hong Kong dollar,hong_kong",15
+3017,"2 Dollars,Hong Kong dollar,hong_kong",136
+3018,"2 Dollars,Hong Kong dollar,hong_kong",136
+3019,"2 Dollars,Hong Kong dollar,hong_kong",136
+3020,"2 Dollars,Hong Kong dollar,hong_kong",136
+3053,"5 Dollars,Hong Kong dollar,hong_kong",228
+3054,"5 Dollars,Hong Kong dollar,hong_kong",228
+3055,"5 Dollars,Hong Kong dollar,hong_kong",228
+3056,"5 Dollars,Hong Kong dollar,hong_kong",228
+3089,"1 Forint,Hungarian Forint,hungary",39
+3090,"1 Forint,Hungarian Forint,hungary",39
+3091,"1 Forint,Hungarian Forint,hungary",39
+3092,"1 Forint,Hungarian Forint,hungary",39
+3125,"2 Forint,Hungarian Forint,hungary",157
+3126,"5 Forint,Hungarian Forint,hungary",231
+3127,"50 Forint,Hungarian Forint,hungary",286
+3128,"50 Dollars,taiwan Dollar,taiwan",284
+3161,"5 Forint,Hungarian Forint,hungary",231
+3162,"5 Forint,Hungarian Forint,hungary",231
+3163,"5 Forint,Hungarian Forint,hungary",231
+3164,"5 Forint,Hungarian Forint,hungary",231
+3197,"10 Forint,Hungarian Forint,hungary",83
+3198,"10 Forint,Hungarian Forint,hungary",83
+3199,"10 Forint,Hungarian Forint,hungary",83
+3200,"10 Forint,Hungarian Forint,hungary",83
+3233,"5 Krooni,Estonian kroon,Estonia",240
+3234,"20 Forint,Hungarian Forint,hungary",197
+3235,"20 Forint,Hungarian Forint,hungary",197
+3236,"20 Forint,Hungarian Forint,hungary",197
+3269,"50 Forint,Hungarian Forint,hungary",286
+3270,"50 Forint,Hungarian Forint,hungary",286
+3271,"50 Forint,Hungarian Forint,hungary",286
+3272,"50 Forint,Hungarian Forint,hungary",286
+3305,"5 Kronor,Swedish Krona,sweden",239
+3306,"100 Forint,Hungarian Forint,hungary",110
+3307,"20 Forint,Hungarian Forint,hungary",197
+3308,"100 Forint,Hungarian Forint,hungary",110
+3341,"200 Forint,Hungarian Forint,hungary",209
+3342,"200 Forint,Hungarian Forint,hungary",209
+3343,"200 Forint,Hungarian Forint,hungary",209
+3344,"200 Forint,Hungarian Forint,hungary",209
+3377,"25 Paise,Indian Rupee,india",215
+3378,"25 Paise,Indian Rupee,india",215
+3379,"25 Paise,Indian Rupee,india",215
+3380,"25 Paise,Indian Rupee,india",215
+3413,"50 Paise,Indian Rupee,india",295
+3414,"50 Paise,Indian Rupee,india",295
+3415,"25 Paise,Indian Rupee,india",215
+3416,"50 Paise,Indian Rupee,india",295
+3449,"1 Rupee,Indian Rupee,india",61
+3450,"1 Rupee,Indian Rupee,india",61
+3451,"1 Rupee,Indian Rupee,india",61
+3452,"1 Rupee,Indian Rupee,india",61
+3485,"2 Rupees,Indian Rupee,india",169
+3486,"2 Rupees,Indian Rupee,india",169
+3487,"2 Rupees,Indian Rupee,india",169
+3488,"2 Rupees,Indian Rupee,india",169
+3521,"5 Rupees,Indian Rupee,india",250
+3522,"5 Rupees,Indian Rupee,india",250
+3523,"5 Rupees,Indian Rupee,india",250
+3524,"5 Rupees,Indian Rupee,india",250
+3557,"10 Rupees,Indian Rupee,india",100
+3558,"10 Rupees,Indian Rupee,india",100
+3559,"10 Rupees,Indian Rupee,india",100
+3560,"10 Rupees,Indian Rupee,india",100
+3593,"100 Rupiah,Indonesian Rupiah,indonesia",112
+3594,"50 Rupiah,Indonesian Rupiah,indonesia",298
+3595,"50 Rupiah,Indonesian Rupiah,indonesia",298
+3596,"50 Rupiah,Indonesian Rupiah,indonesia",298
+3629,"100 Rupiah,Indonesian Rupiah,indonesia",112
+3630,"100 Rupiah,Indonesian Rupiah,indonesia",112
+3631,"100 Rupiah,Indonesian Rupiah,indonesia",112
+3632,"100 Rupiah,Indonesian Rupiah,indonesia",112
+3665,"50 Rupiah,Indonesian Rupiah,indonesia",298
+3666,"200 Rupiah,Indonesian Rupiah,indonesia",210
+3667,"200 Rupiah,Indonesian Rupiah,indonesia",210
+3668,"200 Rupiah,Indonesian Rupiah,indonesia",210
+3701,"500 Rupiah,Indonesian Rupiah,indonesia",307
+3702,"500 Rupiah,Indonesian Rupiah,indonesia",307
+3703,"500 Rupiah,Indonesian Rupiah,indonesia",307
+3704,"500 Rupiah,Indonesian Rupiah,indonesia",307
+3737,"1000 Rupiah,Indonesian Rupiah,indonesia",115
+3738,"1000 Rupiah,Indonesian Rupiah,indonesia",115
+3739,"1000 Rupiah,Indonesian Rupiah,indonesia",115
+3740,"50 Forint,Hungarian Forint,hungary",286
+3773,"5 Agorot,Israeli New Shekel,israel",218
+3774,"5 Agorot,Israeli New Shekel,israel",218
+3775,"5 Agorot,Israeli New Shekel,israel",218
+3776,"5 Agorot,Israeli New Shekel,israel",218
+3809,"10 Agorot,Israeli New Shekel,israel",71
+3810,"10 Agorot,Israeli New Shekel,israel",71
+3811,"10 Agorot,Israeli New Shekel,israel",71
+3812,"10 Agorot,Israeli New Shekel,israel",71
+3845,"1 New Sheqel,Israeli New Shekel,israel",51
+3846,"1 2 New Sheqel,Israeli New Shekel,israel",3
+3847,"1 2 New Sheqel,Israeli New Shekel,israel",3
+3848,"1 2 New Sheqel,Israeli New Shekel,israel",3
+3867,"1 New Sheqel,Israeli New Shekel,israel",51
+3868,"1 New Sheqel,Israeli New Shekel,israel",51
+3869,"1 New Sheqel,Israeli New Shekel,israel",51
+3896,"1 Dollar,Canadian Dollar,canada",14
+3897,"2 New Sheqalim,Israeli New Shekel,israel",163
+3898,"2 New Sheqalim,Israeli New Shekel,israel",163
+3931,"5 New Sheqalim,Israeli New Shekel,israel",242
+3932,"5 New Sheqalim,Israeli New Shekel,israel",242
+3933,"5 New Sheqalim,Israeli New Shekel,israel",242
+3934,"5 New Sheqalim,Israeli New Shekel,israel",242
+3967,"10 New Sheqalim,Israeli New Shekel,israel",92
+3968,"10 New Sheqalim,Israeli New Shekel,israel",92
+3969,"10 New Sheqalim,Israeli New Shekel,israel",92
+3970,"10 New Sheqalim,Israeli New Shekel,israel",92
+4001,"1 Yen,Japanese Yen,japan",67
+4002,"1 Dollar,taiwan Dollar,taiwan",19
+4003,"1 Yen,Japanese Yen,japan",67
+4004,"1 Yen,Japanese Yen,japan",67
+4035,"5 Yen,Japanese Yen,japan",257
+4036,"5 Yen,Japanese Yen,japan",257
+4037,"5 Yen,Japanese Yen,japan",257
+4038,"5 Yen,Japanese Yen,japan",257
+4071,"10 Yen,Japanese Yen,japan",107
+4072,"10 Yen,Japanese Yen,japan",107
+4073,"10 Yen,Japanese Yen,japan",107
+4074,"10 Yen,Japanese Yen,japan",107
+4107,"50 Yen,Japanese Yen,japan",303
+4108,"50 Yen,Japanese Yen,japan",303
+4109,"50 Yen,Japanese Yen,japan",303
+4110,"50 Yen,Japanese Yen,japan",303
+4143,"100 Yen,Japanese Yen,japan",114
+4144,"100 Yen,Japanese Yen,japan",114
+4145,"100 Yen,Japanese Yen,japan",114
+4146,"100 Yen,Japanese Yen,japan",114
+4174,"500 Yen,Japanese Yen,japan",309
+4175,"500 Yen,Japanese Yen,japan",309
+4176,"500 Yen,Japanese Yen,japan",309
+4209,"1 Won,Korean Won,south_korea",66
+4210,"1 Won,Korean Won,south_korea",66
+4211,"1 Won,Korean Won,south_korea",66
+4212,"1 Won,Korean Won,south_korea",66
+4243,"1 Kroon,Estonian kroon,Estonia",48
+4244,"5 Won,Korean Won,south_korea",256
+4245,"5 Won,Korean Won,south_korea",256
+4246,"5 Won,Korean Won,south_korea",256
+4279,"10 Won,Korean Won,south_korea",106
+4280,"10 Won,Korean Won,south_korea",106
+4281,"10 Won,Korean Won,south_korea",106
+4282,"10 Won,Korean Won,south_korea",106
+4315,"50 Won,Korean Won,south_korea",302
+4316,"50 Won,Korean Won,south_korea",302
+4317,"50 Won,Korean Won,south_korea",302
+4318,"50 Won,Korean Won,south_korea",302
+4351,"100 Won,Korean Won,south_korea",113
+4352,"100 Won,Korean Won,south_korea",113
+4353,"100 Won,Korean Won,south_korea",113
+4354,"100 Won,Korean Won,south_korea",113
+4387,"500 Won,Korean Won,south_korea",308
+4388,"500 Won,Korean Won,south_korea",308
+4389,"500 Won,Korean Won,south_korea",308
+4390,"500 Won,Korean Won,south_korea",308
+4423,"1 Sen,Malaysian Ringgit,malaysia",64
+4424,"1 Sen,Malaysian Ringgit,malaysia",64
+4425,"20 Centavos,Mexican peso,mexico",173
+4426,"1 Rappen,Swiss Franc,switzerland",58
+4459,"5 Sen,Malaysian Ringgit,malaysia",253
+4460,"5 Sen,Malaysian Ringgit,malaysia",253
+4461,"5 Sen,Malaysian Ringgit,malaysia",253
+4462,"5 Sen,Malaysian Ringgit,malaysia",253
+4495,"10 Sen,Malaysian Ringgit,malaysia",103
+4496,"10 Centavos,Mexican peso,mexico",74
+4497,"10 Sen,Malaysian Ringgit,malaysia",103
+4498,"10 Sen,Malaysian Ringgit,malaysia",103
+4531,"20 Sen,Malaysian Ringgit,malaysia",205
+4532,"20 Sen,Malaysian Ringgit,malaysia",205
+4533,"50 Sen,Malaysian Ringgit,malaysia",300
+4534,"20 Sen,Malaysian Ringgit,malaysia",205
+4567,"50 Sen,Malaysian Ringgit,malaysia",300
+4568,"20 Sen,Malaysian Ringgit,malaysia",205
+4569,"50 Sen,Malaysian Ringgit,malaysia",300
+4570,"50 Sen,Malaysian Ringgit,malaysia",300
+4603,"50 Cents,Canadian Dollar,canada",262
+4604,"5 Centavos,Mexican peso,mexico",221
+4605,"5 Centavos,Mexican peso,mexico",221
+4606,"5 Centavos,Mexican peso,mexico",221
+4639,"10 Centavos,Mexican peso,mexico",74
+4640,"2 Francs,Swiss Franc,switzerland",158
+4641,"10 Centavos,Mexican peso,mexico",74
+4642,"5 Centavos,Mexican peso,mexico",221
+4675,"20 Centavos,Mexican peso,mexico",173
+4676,"20 Centavos,Mexican peso,mexico",173
+4677,"20 Centavos,Mexican peso,mexico",173
+4678,"20 Centavos,Mexican peso,mexico",173
+4711,"50 Centavos,Mexican peso,mexico",260
+4712,"20 Centavos,Mexican peso,mexico",173
+4713,"50 Centavos,Mexican peso,mexico",260
+4714,"50 Centavos,Mexican peso,mexico",260
+4747,"20 Senti,Estonian kroon,Estonia",206
+4748,"1 Peso,Mexican peso,mexico",54
+4749,"1 Peso,Mexican peso,mexico",54
+4750,"1 Peso,Mexican peso,mexico",54
+4783,"2 Pesos,Mexican peso,mexico",165
+4784,"2 Pesos,Mexican peso,mexico",165
+4785,"100 Pesos,Chilean Peso,chile",111
+4786,"2 Pesos,Mexican peso,mexico",165
+4819,"5 Pesos,Mexican peso,mexico",245
+4820,"5 Pesos,Mexican peso,mexico",245
+4821,"5 Pesos,Mexican peso,mexico",245
+4822,"5 Pesos,Mexican peso,mexico",245
+4855,"10 Pesos,Mexican peso,mexico",96
+4856,"10 Pesos,Mexican peso,mexico",96
+4857,"10 Pesos,Mexican peso,mexico",96
+4858,"10 Pesos,Mexican peso,mexico",96
+4891,"5 Cents,New Zealand dollar,new_zealand",224
+4892,"5 Cents,New Zealand dollar,new_zealand",224
+4893,"5 Cents,New Zealand dollar,new_zealand",224
+4894,"5 Cents,New Zealand dollar,new_zealand",224
+4927,"10 Cents,New Zealand dollar,new_zealand",78
+4928,"10 Cents,New Zealand dollar,new_zealand",78
+4929,"10 Cents,New Zealand dollar,new_zealand",78
+4930,"10 Cents,New Zealand dollar,new_zealand",78
+4963,"20 Cents,New Zealand dollar,new_zealand",192
+4964,"20 Cents,New Zealand dollar,new_zealand",192
+4965,"20 Cents,New Zealand dollar,new_zealand",192
+4966,"20 Cents,New Zealand dollar,new_zealand",192
+4999,"50 Cents,New Zealand dollar,new_zealand",281
+5000,"50 Cents,New Zealand dollar,new_zealand",281
+5001,"50 Cents,New Zealand dollar,new_zealand",281
+5002,"50 Cents,New Zealand dollar,new_zealand",281
+5035,"1 Dollar,New Zealand dollar,new_zealand",16
+5036,"1 Dollar,New Zealand dollar,new_zealand",16
+5037,"50 Cents,New Zealand dollar,new_zealand",281
+5038,"50 Cents,New Zealand dollar,new_zealand",281
+5071,"2 Dollars,New Zealand dollar,new_zealand",137
+5072,"2 Dollars,New Zealand dollar,new_zealand",137
+5073,"2 Dollars,New Zealand dollar,new_zealand",137
+5074,"2 Dollars,New Zealand dollar,new_zealand",137
+5107,"50 Ore,Norwegian Krone,norway",293
+5108,"50 Ore,Norwegian Krone,norway",293
+5109,"50 Ore,Norwegian Krone,norway",293
+5110,"50 Ore,Norwegian Krone,norway",293
+5143,"1 Krone,Norwegian Krone,norway",47
+5144,"5 Kroner,Norwegian Krone,norway",238
+5145,"1 Krone,Norwegian Krone,norway",47
+5146,"1 Krone,Norwegian Krone,norway",47
+5179,"5 Kroner,Norwegian Krone,norway",238
+5180,"5 Kroner,Norwegian Krone,norway",238
+5181,"5 Kroner,Norwegian Krone,norway",238
+5182,"1 Krone,Danish Krone,denmark",46
+5215,"10 Sen,Malaysian Ringgit,malaysia",103
+5216,"10 Cents,Hong Kong dollar,hong_kong",77
+5217,"20 Kroner,Norwegian Krone,norway",202
+5218,"10 Kroner,Norwegian Krone,norway",89
+5251,"20 Kroner,Norwegian Krone,norway",202
+5252,"20 Kroner,Norwegian Krone,norway",202
+5253,"20 Kroner,Norwegian Krone,norway",202
+5254,"20 Kroner,Norwegian Krone,norway",202
+5287,"2 Baht,Thai Baht,thailand",116
+5288,"1 Rupee,Pakistan Rupee,pakistan",62
+5289,"1 Rupee,Pakistan Rupee,pakistan",62
+5290,"2 Dollars,Hong Kong dollar,hong_kong",136
+5323,"2 Rupees,Pakistan Rupee,pakistan",170
+5324,"2 Rupees,Pakistan Rupee,pakistan",170
+5325,"2 Rupees,Pakistan Rupee,pakistan",170
+5326,"2 Rupees,Pakistan Rupee,pakistan",170
+5359,"5 Rupees,Pakistan Rupee,pakistan",251
+5360,"5 Rupees,Pakistan Rupee,pakistan",251
+5361,"5 Rupees,Pakistan Rupee,pakistan",251
+5362,"5 Rupees,Pakistan Rupee,pakistan",251
+5395,"10 Rupees,Pakistan Rupee,pakistan",101
+5396,"2 Rupees,Pakistan Rupee,pakistan",170
+5397,"5 Krooni,Estonian kroon,Estonia",240
+5398,"10 Rupees,Pakistan Rupee,pakistan",101
+5431,"1 Sentimo,Philipine peso,philippines",65
+5432,"1 Sentimo,Philipine peso,philippines",65
+5433,"1 Sentimo,Philipine peso,philippines",65
+5434,"1 4 Dollar,US Dollar,usa",4
+5467,"10 Sentimos,Philipine peso,philippines",105
+5468,"5 Sentimos,Philipine peso,philippines",255
+5469,"5 Sentimos,Philipine peso,philippines",255
+5470,"5 Sentimos,Philipine peso,philippines",255
+5503,"2 Pounds,British Pound,united_kingdom",166
+5504,"10 Sentimos,Philipine peso,philippines",105
+5505,"10 Sentimos,Philipine peso,philippines",105
+5506,"10 Sentimos,Philipine peso,philippines",105
+5539,"25 Sentimos,Philipine peso,philippines",217
+5540,"25 Sentimos,Philipine peso,philippines",217
+5541,"25 Sentimos,Philipine peso,philippines",217
+5542,"25 Sentimos,Philipine peso,philippines",217
+5575,"1 Piso,Philipine peso,philippines",55
+5576,"1 Piso,Philipine peso,philippines",55
+5577,"1 Piso,Philipine peso,philippines",55
+5578,"1 Piso,Philipine peso,philippines",55
+5611,"5 Piso,Philipine peso,philippines",246
+5612,"5 Piso,Philipine peso,philippines",246
+5613,"5 Piso,Philipine peso,philippines",246
+5614,"5 Piso,Philipine peso,philippines",246
+5647,"10 Piso,Philipine peso,philippines",97
+5648,"10 Piso,Philipine peso,philippines",97
+5649,"10 Piso,Philipine peso,philippines",97
+5650,"10 Piso,Philipine peso,philippines",97
+5683,"1 Grosz,Polish Zloty,poland",41
+5684,"1 Grosz,Polish Zloty,poland",41
+5685,"1 Grosz,Polish Zloty,poland",41
+5686,"20 euro Cent,Euro,spain",207
+5719,"1 Grosz,Polish Zloty,poland",41
+5720,"1 Grosz,Polish Zloty,poland",41
+5721,"2 Grosze,Polish Zloty,poland",159
+5722,"5 Groszy,Polish Zloty,poland",233
+5755,"5 Groszy,Polish Zloty,poland",233
+5756,"2 Grosze,Polish Zloty,poland",159
+5757,"5 Groszy,Polish Zloty,poland",233
+5758,"1 Grosz,Polish Zloty,poland",41
+5791,"10 Groszy,Polish Zloty,poland",84
+5792,"10 Groszy,Polish Zloty,poland",84
+5793,"10 Groszy,Polish Zloty,poland",84
+5794,"10 Groszy,Polish Zloty,poland",84
+5827,"20 Groszy,Polish Zloty,poland",198
+5828,"20 Groszy,Polish Zloty,poland",198
+5829,"20 Groszy,Polish Zloty,poland",198
+5830,"20 Groszy,Polish Zloty,poland",198
+5863,"50 Groszy,Polish Zloty,poland",287
+5864,"50 Groszy,Polish Zloty,poland",287
+5865,"50 Groszy,Polish Zloty,poland",287
+5866,"10 Groszy,Polish Zloty,poland",84
+5899,"1 Zloty,Polish Zloty,poland",69
+5900,"1 Zloty,Polish Zloty,poland",69
+5901,"20 Groszy,Polish Zloty,poland",198
+5902,"1 Zloty,Polish Zloty,poland",69
+5935,"2 Zlote,Polish Zloty,poland",171
+5936,"2 Zlote,Polish Zloty,poland",171
+5937,"2 Zlote,Polish Zloty,poland",171
+5938,"2 Zlote,Polish Zloty,poland",171
+5971,"10 Kroner,Danish Krone,denmark",88
+5972,"5 Zlotych,Polish Zloty,poland",258
+5973,"1 Dime,US Dollar,usa",12
+5974,"5 Zlotych,Polish Zloty,poland",258
+6007,"1 Kopek,Russian Ruble,russia",43
+6008,"1 Kopek,Russian Ruble,russia",43
+6009,"1 Kopek,Russian Ruble,russia",43
+6010,"1 Kopek,Russian Ruble,russia",43
+6043,"5 Kopeks,Russian Ruble,russia",235
+6044,"5 Kopeks,Russian Ruble,russia",235
+6045,"1 Kopek,Russian Ruble,russia",43
+6046,"5 Kopeks,Russian Ruble,russia",235
+6079,"10 Kopeks,Russian Ruble,russia",86
+6080,"10 Kopeks,Russian Ruble,russia",86
+6081,"10 Kopeks,Russian Ruble,russia",86
+6082,"5 Kopeks,Russian Ruble,russia",235
+6115,"10 Satang,Thai Baht,thailand",102
+6116,"50 Kopeks,Russian Ruble,russia",289
+6117,"50 Kopeks,Russian Ruble,russia",289
+6118,"50 Kopeks,Russian Ruble,russia",289
+6151,"1 Ruble,Russian Ruble,russia",60
+6152,"1 Ruble,Russian Ruble,russia",60
+6153,"5 Rubles,Russian Ruble,russia",249
+6154,"5 Rubles,Russian Ruble,russia",249
+6187,"2 Pesos,Mexican peso,mexico",165
+6188,"2 Rubles,Russian Ruble,russia",168
+6189,"2 Rubles,Russian Ruble,russia",168
+6190,"5 Rubles,Russian Ruble,russia",249
+6223,"1 Dollar,Hong Kong dollar,hong_kong",15
+6224,"5 Rubles,Russian Ruble,russia",249
+6225,"5 Rubles,Russian Ruble,russia",249
+6226,"1 Ruble,Russian Ruble,russia",60
+6259,"10 Kopeks,Russian Ruble,russia",86
+6260,"10 Rubles,Russian Ruble,russia",99
+6261,"10 Rubles,Russian Ruble,russia",99
+6262,"2 Zlote,Polish Zloty,poland",171
+6295,"1 Cent,Singapore Dollar,singapore",9
+6296,"1 Cent,Singapore Dollar,singapore",9
+6297,"1 Cent,Singapore Dollar,singapore",9
+6298,"1 Cent,Singapore Dollar,singapore",9
+6331,"5 Cents,Singapore Dollar,singapore",225
+6332,"5 Cents,Singapore Dollar,singapore",225
+6333,"5 Cents,Singapore Dollar,singapore",225
+6334,"5 Cents,Singapore Dollar,singapore",225
+6367,"10 Cents,Singapore Dollar,singapore",79
+6368,"10 Cents,Singapore Dollar,singapore",79
+6369,"10 Cents,Singapore Dollar,singapore",79
+6370,"10 Cents,Singapore Dollar,singapore",79
+6403,"20 Cents,Singapore Dollar,singapore",193
+6404,"20 Cents,Singapore Dollar,singapore",193
+6405,"1 Dollar,US Dollar,usa",18
+6406,"20 Cents,Singapore Dollar,singapore",193
+6439,"50 Cents,Singapore Dollar,singapore",282
+6440,"50 Cents,Singapore Dollar,singapore",282
+6441,"50 Cents,Singapore Dollar,singapore",282
+6442,"10 Cents,Singapore Dollar,singapore",79
+6475,"1 Dollar,Singapore Dollar,singapore",17
+6476,"1 Dollar,Singapore Dollar,singapore",17
+6477,"1 Dollar,Singapore Dollar,singapore",17
+6478,"1 Dollar,Singapore Dollar,singapore",17
+6493,"2 Pesos,Mexican peso,mexico",165
+6494,"5 Dollars,Singapore Dollar,singapore",229
+6527,"5 Cents,South African Rand,south_africa",226
+6528,"5 Cents,South African Rand,south_africa",226
+6529,"5 Cents,South African Rand,south_africa",226
+6530,"5 Cents,South African Rand,south_africa",226
+6563,"10 Cents,South African Rand,south_africa",80
+6564,"10 Cents,South African Rand,south_africa",80
+6565,"10 Cents,South African Rand,south_africa",80
+6566,"10 Cents,South African Rand,south_africa",80
+6599,"20 Cents,South African Rand,south_africa",194
+6600,"20 Cents,South African Rand,south_africa",194
+6601,"20 Cents,South African Rand,south_africa",194
+6602,"20 Cents,South African Rand,south_africa",194
+6635,"20 Cents,South African Rand,south_africa",194
+6636,"50 Cents,South African Rand,south_africa",283
+6637,"50 Cents,South African Rand,south_africa",283
+6638,"50 Cents,South African Rand,south_africa",283
+6671,"1 Rand,South African Rand,south_africa",57
+6672,"1 Rand,South African Rand,south_africa",57
+6673,"1 Rand,South African Rand,south_africa",57
+6674,"1 Rand,South African Rand,south_africa",57
+6707,"2 Rand,South African Rand,south_africa",167
+6708,"2 Rand,South African Rand,south_africa",167
+6709,"2 Rand,South African Rand,south_africa",167
+6710,"2 Rand,South African Rand,south_africa",167
+6743,"5 Rand,South African Rand,south_africa",247
+6744,"5 Rand,South African Rand,south_africa",247
+6745,"5 Rand,South African Rand,south_africa",247
+6746,"5 Rand,South African Rand,south_africa",247
+6779,"5 Rupees,Indian Rupee,india",250
+6780,"2 Baht,Thai Baht,thailand",116
+6781,"50 Ore,Swedish Krona,sweden",294
+6782,"10 Cents,Hong Kong dollar,hong_kong",77
+6815,"50 Ore,Swedish Krona,sweden",294
+6816,"50 Ore,Swedish Krona,sweden",294
+6817,"1 Cent,US Dollar,usa",10
+6818,"10 Ore,Swedish Krona,sweden",93
+6851,"1 Krona,Swedish Krona,sweden",45
+6852,"5 Satang,Thai Baht,thailand",252
+6853,"2 Kronor,Swedish Krona,sweden",162
+6854,"1 Krona,Swedish Krona,sweden",45
+6887,"2 Kronor,Swedish Krona,sweden",162
+6888,"2 Kronor,Swedish Krona,sweden",162
+6889,"50 Cents,New Zealand dollar,new_zealand",281
+6890,"10 Dollars,taiwan Dollar,taiwan",81
+6923,"5 Kronor,Swedish Krona,sweden",239
+6924,"5 Kronor,Swedish Krona,sweden",239
+6925,"5 Kronor,Swedish Krona,sweden",239
+6926,"5 Kronor,Swedish Krona,sweden",239
+6959,"10 Kronor,Swedish Krona,sweden",90
+6960,"10 Kronor,Swedish Krona,sweden",90
+6961,"10 Kronor,Swedish Krona,sweden",90
+6962,"10 Kronor,Swedish Krona,sweden",90
+6995,"1 Rappen,Swiss Franc,switzerland",58
+6996,"1 Rappen,Swiss Franc,switzerland",58
+6997,"1 Rappen,Swiss Franc,switzerland",58
+6998,"1 Rappen,Swiss Franc,switzerland",58
+7031,"5 Rappen,Swiss Franc,switzerland",248
+7032,"5 Rappen,Swiss Franc,switzerland",248
+7033,"5 Rappen,Swiss Franc,switzerland",248
+7034,"5 Rappen,Swiss Franc,switzerland",248
+7067,"10 Rappen,Swiss Franc,switzerland",98
+7068,"10 Rappen,Swiss Franc,switzerland",98
+7069,"10 Rappen,Swiss Franc,switzerland",98
+7070,"10 Rappen,Swiss Franc,switzerland",98
+7103,"20 Rappen,Swiss Franc,switzerland",204
+7104,"20 Rappen,Swiss Franc,switzerland",204
+7105,"20 Rappen,Swiss Franc,switzerland",204
+7106,"20 Rappen,Swiss Franc,switzerland",204
+7139,"2 Francs,Swiss Franc,switzerland",158
+7140,"2 Francs,Swiss Franc,switzerland",158
+7141,"1 2 Franc,Swiss Franc,switzerland",2
+7142,"1 2 Franc,Swiss Franc,switzerland",2
+7162,"2 Francs,Swiss Franc,switzerland",158
+7163,"2 Francs,Swiss Franc,switzerland",158
+7164,"1 Franc,Swiss Franc,switzerland",40
+7197,"2 Francs,Swiss Franc,switzerland",158
+7198,"2 Francs,Swiss Franc,switzerland",158
+7199,"2 Francs,Swiss Franc,switzerland",158
+7200,"2 Francs,Swiss Franc,switzerland",158
+7233,"5 Francs,Swiss Franc,switzerland",232
+7234,"5 Francs,Swiss Franc,switzerland",232
+7235,"5 Francs,Swiss Franc,switzerland",232
+7236,"5 Francs,Swiss Franc,switzerland",232
+7265,"1 Dollar,taiwan Dollar,taiwan",19
+7266,"1 2 Dollar,taiwan Dollar,taiwan",1
+7267,"1 2 Dollar,taiwan Dollar,taiwan",1
+7268,"1 2 Dollar,taiwan Dollar,taiwan",1
+7292,"1 Dollar,taiwan Dollar,taiwan",19
+7293,"1 Dollar,taiwan Dollar,taiwan",19
+7294,"10 Dollars,taiwan Dollar,taiwan",81
+7327,"5 Dollars,taiwan Dollar,taiwan",230
+7328,"5 Dollars,taiwan Dollar,taiwan",230
+7329,"5 Dollars,taiwan Dollar,taiwan",230
+7330,"5 Dollars,taiwan Dollar,taiwan",230
+7363,"10 Dollars,taiwan Dollar,taiwan",81
+7364,"10 Dollars,taiwan Dollar,taiwan",81
+7365,"10 Dollars,taiwan Dollar,taiwan",81
+7366,"10 Dollars,taiwan Dollar,taiwan",81
+7394,"20 Dollars,taiwan Dollar,taiwan",195
+7395,"20 Dollars,taiwan Dollar,taiwan",195
+7396,"20 Dollars,taiwan Dollar,taiwan",195
+7427,"50 Dollars,taiwan Dollar,taiwan",284
+7428,"50 Dollars,taiwan Dollar,taiwan",284
+7429,"50 Dollars,taiwan Dollar,taiwan",284
+7430,"50 Dollars,taiwan Dollar,taiwan",284
+7459,"50 Satang,Thai Baht,thailand",299
+7460,"1 Satang,Thai Baht,thailand",63
+7461,"10 Satang,Thai Baht,thailand",102
+7462,"1 Forint,Hungarian Forint,hungary",39
+7491,"5 Satang,Thai Baht,thailand",252
+7492,"5 Satang,Thai Baht,thailand",252
+7493,"5 Satang,Thai Baht,thailand",252
+7494,"5 Satang,Thai Baht,thailand",252
+7527,"2 Pesos,Mexican peso,mexico",165
+7528,"10 Sen,Malaysian Ringgit,malaysia",103
+7529,"10 Satang,Thai Baht,thailand",102
+7530,"1 Baht,Thai Baht,thailand",5
+7563,"25 Satang,Thai Baht,thailand",216
+7564,"25 Satang,Thai Baht,thailand",216
+7565,"25 Satang,Thai Baht,thailand",216
+7566,"25 Satang,Thai Baht,thailand",216
+7597,"50 Satang,Thai Baht,thailand",299
+7598,"50 Satang,Thai Baht,thailand",299
+7599,"25 Satang,Thai Baht,thailand",216
+7600,"50 Satang,Thai Baht,thailand",299
+7633,"1 Baht,Thai Baht,thailand",5
+7634,"1 Baht,Thai Baht,thailand",5
+7635,"1 Baht,Thai Baht,thailand",5
+7636,"1 Baht,Thai Baht,thailand",5
+7669,"2 Baht,Thai Baht,thailand",116
+7670,"2 Baht,Thai Baht,thailand",116
+7671,"2 Baht,Thai Baht,thailand",116
+7672,"2 Baht,Thai Baht,thailand",116
+7705,"5 Baht,Thai Baht,thailand",219
+7706,"5 Baht,Thai Baht,thailand",219
+7707,"5 Baht,Thai Baht,thailand",219
+7708,"1 Baht,Thai Baht,thailand",5
+7741,"10 Baht,Thai Baht,thailand",72
+7742,"1 Peso,Mexican peso,mexico",54
+7743,"10 Baht,Thai Baht,thailand",72
+7744,"10 Baht,Thai Baht,thailand",72
+7777,"10 Kurus,Turkish Lira,turkey",91
+7778,"1 Kurus,Turkish Lira,turkey",49
+7779,"1 Rupee,Pakistan Rupee,pakistan",62
+7780,"10 Cents,Hong Kong dollar,hong_kong",77
+7813,"5 Kurus,Turkish Lira,turkey",241
+7814,"5 Kurus,Turkish Lira,turkey",241
+7815,"500 Rupiah,Indonesian Rupiah,indonesia",307
+7816,"5 Kurus,Turkish Lira,turkey",241
+7849,"10 Kurus,Turkish Lira,turkey",91
+7850,"10 Kurus,Turkish Lira,turkey",91
+7851,"10 Kurus,Turkish Lira,turkey",91
+7852,"10 Kurus,Turkish Lira,turkey",91
+7885,"5 Senti,Estonian kroon,Estonia",254
+7886,"25 Kurus,Turkish Lira,turkey",213
+7887,"25 Kurus,Turkish Lira,turkey",213
+7888,"25 Kurus,Turkish Lira,turkey",213
+7921,"50 Kurus,Turkish Lira,turkey",291
+7922,"50 Kurus,Turkish Lira,turkey",291
+7923,"5 Kurus,Turkish Lira,turkey",241
+7924,"50 Kurus,Turkish Lira,turkey",291
+7957,"1 Lira,Turkish Lira,turkey",50
+7958,"1 Lira,Turkish Lira,turkey",50
+7959,"1 Lira,Turkish Lira,turkey",50
+7960,"50 Kurus,Turkish Lira,turkey",291
+7993,"1 Cent,US Dollar,usa",10
+7994,"1 Cent,US Dollar,usa",10
+7995,"1 Cent,US Dollar,usa",10
+7996,"1 Cent,US Dollar,usa",10
+8029,"5 Cents,US Dollar,usa",227
+8030,"5 Cents,US Dollar,usa",227
+8031,"5 Cents,US Dollar,usa",227
+8032,"5 Cents,US Dollar,usa",227
+8065,"1 Dime,US Dollar,usa",12
+8066,"1 Dime,US Dollar,usa",12
+8067,"1 Dime,US Dollar,usa",12
+8068,"1 Rupee,Pakistan Rupee,pakistan",62
+8101,"1 4 Dollar,US Dollar,usa",4
+8102,"1 4 Dollar,US Dollar,usa",4
+8103,"1 4 Dollar,US Dollar,usa",4
+8104,"1 4 Dollar,US Dollar,usa",4
+8129,"1 2 Dollar,US Dollar,usa",0
+8130,"1 2 Dollar,US Dollar,usa",0
+8131,"1 2 Dollar,US Dollar,usa",0
+8150,"100 Yen,Japanese Yen,japan",114
+8151,"1 Dollar,US Dollar,usa",18
+8152,"1 Dollar,US Dollar,usa",18
+8243,"100 Dram,Armenian dram,Armenia",109
+8244,"100 Dram,Armenian dram,Armenia",109
+8245,"100 Dram,Armenian dram,Armenia",109
+8246,"100 Dram,Armenian dram,Armenia",109
+8247,"100 Dram,Armenian dram,Armenia",109
+8248,"100 Dram,Armenian dram,Armenia",109
+8249,"100 Dram,Armenian dram,Armenia",109
+8250,"100 Dram,Armenian dram,Armenia",109
+8251,"100 Dram,Armenian dram,Armenia",109
+8252,"100 Dram,Armenian dram,Armenia",109
+8343,"10 Dram,Armenian dram,Armenia",82
+8344,"10 Dram,Armenian dram,Armenia",82
+8345,"10 Dram,Armenian dram,Armenia",82
+8346,"10 Dram,Armenian dram,Armenia",82
+8347,"10 Dram,Armenian dram,Armenia",82
+8348,"10 Dram,Armenian dram,Armenia",82
+8349,"10 Dram,Armenian dram,Armenia",82
+8350,"10 Dram,Armenian dram,Armenia",82
+8351,"10 Dram,Armenian dram,Armenia",82
+8352,"10 Dram,Armenian dram,Armenia",82
+8443,"200 Dram,Armenian dram,Armenia",208
+8444,"200 Dram,Armenian dram,Armenia",208
+8445,"200 Dram,Armenian dram,Armenia",208
+8446,"200 Dram,Armenian dram,Armenia",208
+8447,"200 Dram,Armenian dram,Armenia",208
+8448,"200 Dram,Armenian dram,Armenia",208
+8449,"200 Dram,Armenian dram,Armenia",208
+8450,"200 Dram,Armenian dram,Armenia",208
+8451,"200 Dram,Armenian dram,Armenia",208
+8452,"200 Dram,Armenian dram,Armenia",208
+8543,"20 Dram,Armenian dram,Armenia",196
+8544,"20 Dram,Armenian dram,Armenia",196
+8545,"20 Dram,Armenian dram,Armenia",196
+8546,"20 Dram,Armenian dram,Armenia",196
+8547,"20 Dram,Armenian dram,Armenia",196
+8548,"20 Dram,Armenian dram,Armenia",196
+8549,"20 Dram,Armenian dram,Armenia",196
+8550,"20 Dram,Armenian dram,Armenia",196
+8551,"20 Dram,Armenian dram,Armenia",196
+8552,"20 Dram,Armenian dram,Armenia",196
+8643,"500 Dram,Armenian dram,Armenia",305
+8644,"500 Dram,Armenian dram,Armenia",305
+8645,"500 Dram,Armenian dram,Armenia",305
+8646,"500 Dram,Armenian dram,Armenia",305
+8647,"500 Dram,Armenian dram,Armenia",305
+8648,"500 Dram,Armenian dram,Armenia",305
+8649,"500 Dram,Armenian dram,Armenia",305
+8650,"500 Dram,Armenian dram,Armenia",305
+8651,"500 Dram,Armenian dram,Armenia",305
+8652,"500 Dram,Armenian dram,Armenia",305
+8743,"50 Dram,Armenian dram,Armenia",285
+8744,"50 Dram,Armenian dram,Armenia",285
+8745,"50 Dram,Armenian dram,Armenia",285
+8746,"50 Dram,Armenian dram,Armenia",285
+8747,"50 Dram,Armenian dram,Armenia",285
+8748,"50 Dram,Armenian dram,Armenia",285
+8749,"50 Dram,Armenian dram,Armenia",285
+8750,"50 Dram,Armenian dram,Armenia",285
+8751,"50 Dram,Armenian dram,Armenia",285
+8752,"50 Dram,Armenian dram,Armenia",285
+8775,"20 Cents,Euro,ireland",182
+8776,"20 Cents,Euro,germany",180
+8777,"20 Cents,Euro,ireland",182
+8800,"20 Cents,Euro,ireland",182
+8801,"20 Cents,Euro,germany",180
+8802,"20 Cents,Euro,germany",180
+8825,"1 Euro,Euro,ireland",28
+8826,"1 Euro,Euro,ireland",28
+8827,"1 Euro,Euro,ireland",28
+8850,"1 Euro,Euro,germany",26
+8851,"1 Euro,Euro,germany",26
+8852,"1 Euro,Euro,germany",26
+8875,"1 Euro,Euro,lithuania",31
+8876,"1 Euro,Euro,finland",24
+8877,"1 Euro,Euro,lithuania",31
+8900,"1 Euro,Euro,greece",27
+8901,"1 Euro,Euro,greece",27
+8902,"1 Euro,Euro,greece",27
+8926,"20 Cents,Euro,greece",181
+8927,"20 Cents,Euro,greece",181
+8951,"1 Euro,Euro,estonia",23
+8952,"1 Euro,Euro,estonia",23
+8953,"1 Euro,Euro,estonia",23
+8976,"20 Cents,Euro,portugal",189
+8978,"20 Cents,Euro,portugal",189
+9001,"20 Cents,Euro,slovakia",190
+9002,"20 Cents,Euro,slovakia",190
+9003,"20 Cents,Euro,slovakia",190
+9026,"1 Euro,Euro,netherlands",34
+9027,"1 Euro,Euro,netherlands",34
+9028,"1 Euro,Euro,netherlands",34
+9051,"20 Cents,Euro,belgium",176
+9053,"1 Euro,Euro,belgium",21
+9076,"2 Cents,Euro,austria",118
+9077,"20 Cents,Euro,lithuania",185
+9078,"2 Cents,Euro,austria",118
+9101,"2 Cents,Euro,belgium",119
+9102,"20 Cents,Euro,belgium",176
+9103,"20 Cents,Euro,belgium",176
+9126,"20 Cents,Euro,lithuania",185
+9127,"20 Cents,Euro,lithuania",185
+9128,"20 Cents,Euro,lithuania",185
+9151,"20 Cents,Euro,netherlands",188
+9152,"20 Cents,Euro,netherlands",188
+9153,"20 Cents,Euro,luxembourg",186
+9176,"1 Euro,Euro,slovenia",37
+9177,"1 Euro,Euro,slovenia",37
+9178,"1 Euro,Euro,slovenia",37
+9202,"5 euro Cent,Euro,spain",259
+9204,"1 Cent,Euro,spain",8
+9227,"20 Cents,Euro,spain",191
+9228,"20 Cents,Euro,spain",191
+9229,"20 Cents,Euro,spain",191
+9252,"1 Euro,Euro,italy",29
+9253,"1 Euro,Euro,italy",29
+9254,"1 Euro,Euro,italy",29
+9277,"20 Cents,Euro,italy",183
+9278,"20 Cents,Euro,italy",183
+9279,"20 Cents,Euro,italy",183
+9302,"1 Euro,Euro,slovakia",36
+9303,"1 Euro,Euro,slovakia",36
+9304,"1 Euro,Euro,slovakia",36
+9327,"1 Euro,Euro,latvia",30
+9328,"1 Euro,Euro,latvia",30
+9352,"1 Euro,Euro,austria",20
+9353,"1 Euro,Euro,austria",20
+9354,"1 Euro,Euro,austria",20
+9377,"1 Euro,Euro,portugal",35
+9378,"1 Euro,Euro,portugal",35
+9379,"1 Euro,Euro,portugal",35
+9402,"20 Cents,Euro,latvia",184
+9403,"20 Cents,Euro,latvia",184
+9404,"50 Cents,Euro,latvia",272
+9427,"1 Euro,Euro,finland",24
+9428,"1 Euro,Euro,finland",24
+9429,"1 Euro,Euro,finland",24
+9452,"20 Cents,Euro,finland",178
+9453,"20 Cents,Euro,finland",178
+9454,"20 Cents,Euro,finland",178
+9477,"20 Cents,Euro,austria",175
+9478,"20 Cents,Euro,austria",175
+9479,"20 Cents,Euro,austria",175
+9502,"20 Cents,Euro,france",179
+9503,"20 Cents,Euro,france",179
+9504,"20 Cents,Euro,france",179
+9527,"1 Euro,Euro,france",25
+9528,"1 Euro,Euro,france",25
+9529,"1 Euro,Euro,france",25
+9552,"50 Cents,Euro,luxembourg",274
+9553,"20 Cents,Euro,luxembourg",186
+9554,"20 Cents,Euro,luxembourg",186
+9577,"1 Euro,Euro,luxembourg",32
+9578,"1 Euro,Euro,luxembourg",32
+9579,"1 Euro,Euro,luxembourg",32
+9602,"1 Euro,Euro,cyprus",22
+9603,"1 Euro,Euro,cyprus",22
+9604,"1 Euro,Euro,cyprus",22
+9627,"1 Euro,Euro,malta",33
+9628,"1 Euro,Euro,malta",33
+9629,"2 Euro,Euro,malta",151
+9652,"20 Cents,Euro,cyprus",177
+9653,"20 Cents,Euro,cyprus",177
+9654,"20 Cents,Euro,cyprus",177
+9677,"50 Cents,Euro,malta",275
+9678,"20 Cents,Euro,malta",187
+9679,"20 Cents,Euro,malta",187
+9703,"2 Euro,Euro,lithuania",149
+9704,"2 Euro,Euro,lithuania",149
+9705,"2 Euro,Euro,lithuania",149
+9730,"5 Krooni,Estonian kroon,Estonia",240
+9731,"1 Kroon,Estonian kroon,Estonia",48
+9732,"1 Kroon,Estonian kroon,Estonia",48
+9746,"5 Krooni,Estonian kroon,Estonia",240
+9747,"1 Kroon,Estonian kroon,Estonia",48
+9769,"2 Euro,Euro,france",143
+9770,"2 Euro,Euro,france",143
+9771,"2 Euro,Euro,france",143
+9804,"10 Senti,Estonian kroon,Estonia",104
+9805,"10 Senti,Estonian kroon,Estonia",104
+9835,"2 Euro,Euro,luxembourg",150
+9836,"2 Euro,Euro,luxembourg",150
+9837,"2 Euro,Euro,luxembourg",150
+9862,"2 Euro,Euro,italy",147
+9863,"2 Euro,Euro,italy",147
+9884,"2 Euro,Euro,estonia",141
+9885,"2 Cents,Euro,belgium",119
+9886,"2 Euro,Euro,belgium",139
+9908,"2 Cents,Euro,latvia",126
+9909,"2 Cents,Euro,latvia",126
+9910,"2 Cents,Euro,latvia",126
+9938,"2 Cents,Euro,malta",129
+9939,"2 Cents,Euro,malta",129
+9940,"2 Cents,Euro,malta",129
+9941,"2 Cents,Euro,malta",129
+9966,"2 Euro,Euro,cyprus",140
+9967,"1 Euro,Euro,spain",38
+9968,"2 Euro,Euro,cyprus",140
+9994,"2 Cents,Euro,france",122
+9995,"2 Cents,Euro,france",122
+9996,"2 Cents,Euro,france",122
+10020,"2 Euro,Euro,malta",151
+10021,"2 Euro,Euro,malta",151
+10022,"2 Euro,Euro,malta",151
+10042,"2 Cents,Euro,finland",121
+10043,"2 Cents,Euro,finland",121
+10044,"2 Cents,Euro,finland",121
+10073,"2 Cents,Euro,italy",125
+10074,"2 Cents,Euro,italy",125
+10075,"2 Cents,Euro,italy",125
+10076,"2 Cents,Euro,italy",125
+10099,"2 Euro,Euro,estonia",141
+10100,"2 Euro,Euro,estonia",141
+10101,"2 Euro,Euro,estonia",141
+10123,"2 Euro,Euro,slovenia",155
+10124,"2 Euro,Euro,slovenia",155
+10125,"2 Euro,Euro,slovenia",155
+10147,"20 Cents,Euro,belgium",176
+10148,"2 Cents,Euro,belgium",119
+10149,"2 Cents,Euro,belgium",119
+10171,"2 Cents,Euro,lithuania",127
+10172,"2 Cents,Euro,lithuania",127
+10173,"2 Cents,Euro,lithuania",127
+10194,"2 Cents,Euro,cyprus",120
+10195,"1 Sen,Malaysian Ringgit,malaysia",64
+10196,"2 Cents,Euro,cyprus",120
+10214,"5 Senti,Estonian kroon,Estonia",254
+10215,"5 Senti,Estonian kroon,Estonia",254
+10239,"50 Cents,Euro,cyprus",265
+10240,"50 Cents,Euro,cyprus",265
+10241,"50 Cents,Euro,cyprus",265
+10268,"2 Euro,Euro,ireland",146
+10269,"2 Euro,Euro,ireland",146
+10300,"2 Cents,Euro,luxembourg",128
+10301,"1 Kroon,Estonian kroon,Estonia",48
+10302,"2 Cents,Euro,luxembourg",128
+10329,"2 Euro,Euro,latvia",148
+10330,"1 Euro,Euro,latvia",30
+10331,"2 Euro,Euro,latvia",148
+10359,"1 Euro,Euro,germany",26
+10360,"2 Euro,Euro,germany",144
+10382,"50 Cents,Euro,netherlands",276
+10383,"2 Cents,Euro,netherlands",130
+10410,"2 Euro,Euro,netherlands",152
+10411,"2 Euro,Euro,netherlands",152
+10412,"2 Euro,Euro,netherlands",152
+10434,"50 Cents,Euro,austria",263
+10435,"50 Cents,Euro,austria",263
+10436,"50 Cents,Euro,austria",263
+10459,"2 Euro,Euro,slovakia",154
+10460,"2 Euro,Euro,slovakia",154
+10461,"2 Euro,Euro,slovakia",154
+10485,"2 Euro,Euro,portugal",153
+10486,"2 Euro,Euro,portugal",153
+10487,"2 Euro,Euro,portugal",153
+10512,"2 Cents,Euro,belgium",119
+10513,"2 Cents,Euro,belgium",119
+10514,"2 Cents,Euro,belgium",119
+10538,"1 Cent,Euro,spain",8
+10539,"2 Cents,Euro,spain",133
+10564,"2 Euro,Euro,austria",138
+10565,"2 Euro,Euro,austria",138
+10566,"2 Euro,Euro,austria",138
+10592,"2 Euro,Euro,finland",142
+10593,"2 Euro,Euro,finland",142
+10594,"2 Euro,Euro,finland",142
+10625,"50 Senti,Estonian kroon,Estonia",301
+10626,"20 Senti,Estonian kroon,Estonia",206
+10627,"50 Senti,Estonian kroon,Estonia",301
+10656,"2 Cents,Euro,slovakia",132
+10657,"2 Cents,Euro,slovakia",132
+10658,"1 Koruna,Czech Koruna,czech_republic",44
+10659,"2 Cents,Euro,slovakia",132
+10689,"2 Cents,Euro,portugal",131
+10690,"2 Cents,Euro,portugal",131
+10691,"2 Cents,Euro,portugal",131
+10713,"2 Cents,Euro,ireland",124
+10714,"2 Cents,Euro,ireland",124
+10742,"10 Senti,Estonian kroon,Estonia",104
+10743,"20 Senti,Estonian kroon,Estonia",206
+10744,"1 Kroon,Estonian kroon,Estonia",48
+10767,"2 Cents,Euro,germany",123
+10768,"2 Cents,Euro,germany",123
+10797,"2 Euro,Euro,greece",145
+10798,"2 Euro,Euro,greece",145
+10799,"2 Euro,Euro,greece",145
+11274,"50 Cents,Euro,finland",266
+11275,"50 Cents,Euro,finland",266
+11276,"50 Cents,Euro,finland",266
+11304,"50 Cents,Euro,france",267
+11305,"50 Cents,Euro,france",267
+11306,"50 euro Cent,Euro,spain",304
+11307,"50 Cents,Euro,france",267
+11330,"1 Euro,Euro,germany",26
+11331,"50 Cents,Euro,germany",268
+11332,"50 Cents,Euro,germany",268
+11360,"50 Cents,Euro,greece",269
+11361,"50 Cents,Euro,italy",271
+11362,"50 Cents,Euro,greece",269
+11381,"50 Cents,Euro,ireland",270
+11382,"50 Cents,Euro,ireland",270
+11383,"50 Cents,Euro,ireland",270
+11411,"50 Cents,Euro,italy",271
+11412,"50 Cents,Euro,italy",271
+11413,"50 Cents,Euro,italy",271
+11431,"20 euro Cent,Euro,spain",207
+11457,"50 Cents,Euro,finland",266
+11458,"50 Cents,Euro,lithuania",273
+11459,"2 Euro,Euro,finland",142
+11486,"50 Cents,Euro,luxembourg",274
+11487,"20 Cents,Euro,luxembourg",186
+11488,"50 Cents,Euro,luxembourg",274
+11516,"20 euro Cent,Euro,spain",207
+11517,"50 Cents,Euro,malta",275
+11519,"50 Cents,Euro,malta",275
+11550,"50 Cents,Euro,netherlands",276
+11551,"50 Cents,Euro,netherlands",276
+11552,"50 Cents,Euro,netherlands",276
+11553,"20 Cents,Euro,netherlands",188
+11586,"20 Cents,Euro,portugal",189
+11587,"50 Cents,Euro,portugal",277
+11589,"50 Cents,Euro,portugal",277
+11617,"50 Cents,Euro,slovakia",278
+11618,"50 Cents,Euro,slovakia",278
+11619,"50 Cents,Euro,slovakia",278
+11653,"50 Cents,Euro,spain",279
+11654,"50 Cents,Euro,spain",279
+11655,"20 Cents,Euro,spain",191
+11656,"50 Cents,Euro,spain",279

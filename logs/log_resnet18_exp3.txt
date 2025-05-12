@@ -1,0 +1,23 @@
+
+=== Experiment 3 ===
+LR: 0.001, Batch Size: 128, Hidden Units: 256, Dropout: 0.5
+Epoch 1/10 - Train Loss: 5.6446, Train Acc: 0.0327, Val Loss: 5.3585, Val Acc: 0.1129
+Precision: 0.0591 | Recall: 0.0631 | F1-score: 0.0442
+Epoch 2/10 - Train Loss: 5.2275, Train Acc: 0.1107, Val Loss: 5.0396, Val Acc: 0.1777
+Precision: 0.1465 | Recall: 0.1143 | F1-score: 0.0912
+Epoch 3/10 - Train Loss: 4.9233, Train Acc: 0.1590, Val Loss: 4.7259, Val Acc: 0.2380
+Precision: 0.2016 | Recall: 0.1647 | F1-score: 0.1433
+Epoch 4/10 - Train Loss: 4.6034, Train Acc: 0.2145, Val Loss: 4.3772, Val Acc: 0.3029
+Precision: 0.2596 | Recall: 0.2227 | F1-score: 0.1966
+Epoch 5/10 - Train Loss: 4.2614, Train Acc: 0.2718, Val Loss: 4.0606, Val Acc: 0.3774
+Precision: 0.3495 | Recall: 0.2923 | F1-score: 0.2675
+Epoch 6/10 - Train Loss: 3.9386, Train Acc: 0.3343, Val Loss: 3.7112, Val Acc: 0.4392
+Precision: 0.3900 | Recall: 0.3511 | F1-score: 0.3164
+Epoch 7/10 - Train Loss: 3.6074, Train Acc: 0.4035, Val Loss: 3.3636, Val Acc: 0.4995
+Precision: 0.4610 | Recall: 0.4094 | F1-score: 0.3839
+Epoch 8/10 - Train Loss: 3.2683, Train Acc: 0.4625, Val Loss: 3.0499, Val Acc: 0.5669
+Precision: 0.5057 | Recall: 0.4787 | F1-score: 0.4551
+Epoch 9/10 - Train Loss: 2.9670, Train Acc: 0.5209, Val Loss: 2.7508, Val Acc: 0.6159
+Precision: 0.5490 | Recall: 0.5289 | F1-score: 0.5073
+Epoch 10/10 - Train Loss: 2.6668, Train Acc: 0.5709, Val Loss: 2.4932, Val Acc: 0.6440
+Precision: 0.5734 | Recall: 0.5598 | F1-score: 0.5358

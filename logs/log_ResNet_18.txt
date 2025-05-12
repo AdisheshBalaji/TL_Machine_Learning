@@ -1,0 +1,12 @@
+Starting training for ResNet_18
+Epoch 1/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 2/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 3/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 4/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 5/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 6/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 7/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 8/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 9/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Epoch 10/10 - Train Loss: 0.1263, Train Acc: 0.9863, Val Loss: 0.8046, Val Acc: 0.8366
+Training completed. Best Val Acc: 0.8365679264555669
